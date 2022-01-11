@@ -12,7 +12,7 @@
     Food ordering app made with ReactJS. It has been built with best practices using components, Hooks and renders lists using conditionals.
     <br />
     <br />
-    <a href="https://expense-tracker-gustmrg.netlify.app/" target="_blank">View Demo</a>
+    <a href="https://food-app-gustmrg.netlify.app/" target="_blank">View Demo</a>
   </p>
 </div>
 <div align="center">
